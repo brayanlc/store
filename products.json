@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "nombre": "Coca-Cola",
+      "precio_unitario": 3500,
+      "stock": 10,
+      "img": "./images/product-1.jpeg"
+    },
+    {
+      "id": "2",
+      "nombre": "Pepsi",
+      "precio_unitario": 2500,
+      "stock": 7,
+      "img": "./images/product-2.jpeg"
+    },
+    {
+      "id": "3",
+      "nombre": "Fanta",
+      "precio_unitario": 2000,
+      "stock": 8,
+      "img": "./images/product-3.jpeg"
+    },
+    {
+      "id": "4",
+      "nombre": "Sprite",
+      "precio_unitario": 2000,
+      "stock": 6,
+      "img": "./images/product-4.jpeg"
+    },
+    {
+      "id": "5",
+      "nombre": "Lipton",
+      "precio_unitario": 3000,
+      "stock": 8,
+      "img": "./images/product-5.jpeg"
+    },
+    {
+      "id": "6",
+      "nombre": "Nestea",
+      "precio_unitario": 2500,
+      "stock": 5,
+      "img": "./images/product-6.jpeg"
+    },
+    {
+      "id": "7",
+      "nombre": "Aquarius",
+      "precio_unitario": 2500,
+      "stock": 9,
+      "img": "./images/product-7.jpeg"
+    },
+    {
+      "id": "8",
+      "nombre": "Schweppes",
+      "precio_unitario": 3000,
+      "stock": 4,
+      "img": "./images/product-8.jpeg"
+    },
+    {
+      "id": "9",
+      "nombre": "Red Bull",
+      "precio_unitario": 4000,
+      "stock": 7,
+      "img": "./images/product-1.jpeg"
+    },
+    {
+      "id": "10",
+      "nombre": "Mirinda",
+      "precio_unitario": 3000,
+      "stock": 8,
+      "img": "./images/product-2.jpeg"
+    }
+  ]
+}
